@@ -16,5 +16,5 @@ Players roll two 6-sided dice each, earning points based on the roll. Across 5 r
 - Ties involve a 1-die roll-off for the winner. Only authorized players participate
 
 A valid login to be able to play is:<br>
-Username: test<br>
-Password: test123
+Username: ```test```<br>
+Password: ```test123```

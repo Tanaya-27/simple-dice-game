@@ -14,3 +14,7 @@ Players roll two 6-sided dice each, earning points based on the roll. Across 5 r
 - Score never drops below 0
 - The highest 5-round score wins
 - Ties involve a 1-die roll-off for the winner. Only authorized players participate
+
+A valid login to be able to play is:<br>
+Username: test<br>
+Password: test123
